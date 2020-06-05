@@ -92,7 +92,7 @@ https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery
 http://streamidvo.multitvsolution.in/DiscoveryHindi-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC
@@ -276,7 +276,7 @@ https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8
 #EXTINF:-1,KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+http://145.239.255.4:8080/BOO/mono.m3u8?token=test
 #EXTINF:-1,NICK JR
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1,Baby First
@@ -302,15 +302,17 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD//master.m3u8?hd
 #EXTINF:-1,Sony SIX (Opt-2)
 https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Star Sports 1 (Opt-1)
-http://cdn.banglatv.xyz/beeiptv-stb/starsports1/chunks.m3u8
+http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-2)
-http://103.58.73.26/streams/1004/index.m3u8
+http://cdn.banglatv.xyz/beeiptv-stb/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-3)
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1,Star Sports 1 (Opt-4)
 http://103.81.104.222/live/starsport-s1hd/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://cdn.banglatv.xyz/beeiptv-stb/starsports2/chunks.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
-http://103.58.73.26/streams/1016/index.m3u8
+http://otv.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-3)
 http://103.81.104.222/live/star-sports-2/index.m3u8
 #EXTINF:-1,Star Sports 3
@@ -320,15 +322,17 @@ http://cdn.banglatv.xyz/beeiptv-stb/select1/chunks.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-2)
 http://tv.ebox.live:8080/live/starsports-1.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-3)
-http://103.58.73.26/streams/1013/index.m3u8
+http://otv.ftpbd.net/streams/113/index.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-4)
 http://103.81.104.222/live/startsports-select-1hd/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-1)
 http://cdn.banglatv.xyz/beeiptv-stb/select2/chunks.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-2)
-http://103.58.73.26/streams/1014/index.m3u8
+http://otv.ftpbd.net/streams/114/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-3)
 http://103.81.104.222/live/startsports-select-2hd/index.m3u8
+#EXTINF:-1,Star Cricket
+http://boyztoyz.us/RonDenston/15.05.19/7517
 #EXTINF:-1,Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1,Abu Dhabi Sports 2
@@ -454,7 +458,7 @@ http://z5amshls.akamaized.net/zeenews/tracks-v1a1/index.m3u8
 #EXTINF:-1,LOK SABHA TV
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1,Saudi Quran
-http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/chunks.m3u8
 #EXTINF:-1,Saudi Sunnah
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1,Peace TV
@@ -500,7 +504,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
 #EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
+http://www.elahmad.com/tv/m3u8/elahmad.php?http://176.58.79.17:8080/hls/mbc2.m3u8?token=1FURHbJq_Zp2poJanRK5Nw&e=1590789356&channel=mbc2
 #EXTINF:-1,MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
 #EXTINF:-1,MBC Bollywood
@@ -698,7 +702,7 @@ https://stream.simpaisa.com/pitvlive2/ptvglobal3/playlist.m3u8
 #EXTINF:-1,AAJ ENT
 https://stream.simpaisa.com/pitvlive2/aajentnew/playlist.m3u8
 #EXTINF:-1,atv SD
-http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
+https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1,atv HD
 https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1,VYAS HIGHER EDUCATION CHANNEL
@@ -724,11 +728,9 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1,RT Documentary
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/chunks.m3u8
 #EXTINF:-1,NAT GEO WILD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
+https://triangle.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,NAT GEO PEOPLE
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1,National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
+https://triangle.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1,National Geographic HD
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 #EXTINF:-1,YTN Science
